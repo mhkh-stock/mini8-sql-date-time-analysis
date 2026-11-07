@@ -1,0 +1,25 @@
+customer_id | name | signup_date | order_count | last_order_date | days_since_last_order | avg_gap_days
+14 | Ali Haider | 2025-07-22 | 2 | 2025-08-25 | 128 | 28.0
+17 | Sara Ahmed | 2025-09-11 | 1 | 2025-09-25 | 97 | None
+11 | Iqra Aziz | 2025-06-02 | 4 | 2025-10-02 | 90 | 40.3
+15 | Noor Fatima | 2025-08-05 | 3 | 2025-10-10 | 82 | 27.5
+5 | Hira Shah | 2025-02-10 | 23 | 2025-10-16 | 76 | 10.4
+3 | Fatima Zahra | 2025-01-05 | 26 | 2025-10-22 | 70 | 11.4
+19 | Nadia Hussain | 2025-10-06 | 1 | 2025-10-27 | 65 | None
+13 | Rabia Anwar | 2025-07-08 | 2 | 2025-10-29 | 63 | 90.0
+16 | Hamza Yousuf | 2025-08-27 | 5 | 2025-10-29 | 63 | 15.5
+10 | Omar Farooq | 2025-05-25 | 10 | 2025-11-09 | 52 | 18.7
+21 | Mahnoor Asif | 2025-11-03 | 1 | 2025-11-14 | 47 | None
+22 | Talha Siddiqui | 2025-11-17 | 1 | 2025-11-18 | 43 | None
+6 | Ahmed Raza | 2025-03-03 | 22 | 2025-11-20 | 41 | 12.3
+20 | Faisal Iqbal | 2025-10-19 | 3 | 2025-11-26 | 35 | 16.5
+8 | Hassan Ali | 2025-04-07 | 8 | 2025-11-30 | 31 | 32.1
+18 | Kashif Mehmood | 2025-09-28 | 5 | 2025-12-19 | 12 | 20.3
+9 | Zainab Fatima | 2025-05-12 | 17 | 2025-12-22 | 9 | 13.6
+7 | Sana Malik | 2025-03-18 | 24 | 2025-12-25 | 6 | 12.0
+2 | Bilal Ahmed | 2024-12-02 | 30 | 2025-12-27 | 4 | 12.4
+4 | Usman Tariq | 2025-01-20 | 20 | 2025-12-29 | 2 | 17.7
+12 | Danish Iqbal | 2025-06-19 | 7 | 2025-12-29 | 2 | 32.0
+1 | Ayesha Khan | 2024-11-15 | 35 | 2025-12-31 | 0 | 10.7
+23 | Waqar Ahmed | 2025-11-25 | None | None | None | None
+24 | Amna Khalid | 2025-12-01 | None | None | None | None

@@ -1,0 +1,5 @@
+quarter | revenue_pkr | prev_q_pkr | qoq_growth_pct
+2025-Q1 | 7490 | None | None
+2025-Q2 | 14370 | 7490 | 91.86
+2025-Q3 | 15500 | 14370 | 7.86
+2025-Q4 | 12980 | 15500 | -16.26

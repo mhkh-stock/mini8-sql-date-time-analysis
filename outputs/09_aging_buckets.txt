@@ -1,0 +1,6 @@
+aging_bucket | orders | amount_pkr
+Current (not yet due) | 2 | 4200
+1-30 days overdue | 3 | 5650
+31-60 days overdue | 2 | 3850
+61-90 days overdue | 2 | 5060
+90+ days overdue | 3 | 5900

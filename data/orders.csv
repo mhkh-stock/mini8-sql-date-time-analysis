@@ -1,0 +1,251 @@
+order_id,order_date,customer_id,item,category,qty,unit_price,total
+1,2025-01-01,2,Doodh Patti Chai,Hot Drinks,1,120,120
+2,2025-01-01,2,Anda Paratha,Food,1,150,150
+3,2025-01-02,1,Elaichi Chai,Hot Drinks,1,150,150
+4,2025-01-02,2,Doodh Patti Chai,Hot Drinks,1,120,120
+5,2025-01-03,1,Elaichi Chai,Hot Drinks,1,150,150
+6,2025-01-08,1,Doodh Patti Chai,Hot Drinks,1,120,120
+7,2025-01-09,3,Sweet Lassi,Cold Drinks,1,160,160
+8,2025-01-11,1,Doodh Patti Chai,Hot Drinks,1,120,120
+9,2025-01-16,3,Anda Paratha,Food,2,150,300
+10,2025-01-18,1,Kashmiri Chai,Hot Drinks,1,180,180
+11,2025-01-19,3,Cake Slice,Bakery,1,250,250
+12,2025-01-20,1,Doodh Patti Chai,Hot Drinks,1,120,120
+13,2025-01-23,1,Samosa (2 pc),Food,1,60,60
+14,2025-01-27,1,Doodh Patti Chai,Hot Drinks,1,120,120
+15,2025-01-27,2,Doodh Patti Chai,Hot Drinks,2,120,240
+16,2025-01-27,4,Doodh Patti Chai,Hot Drinks,1,120,120
+17,2025-01-28,2,Doodh Patti Chai,Hot Drinks,1,120,120
+18,2025-01-29,2,Elaichi Chai,Hot Drinks,1,150,150
+19,2025-01-29,2,Doodh Patti Chai,Hot Drinks,1,120,120
+20,2025-01-30,3,Doodh Patti Chai,Hot Drinks,1,120,120
+21,2025-03-01,5,Doodh Patti Chai,Hot Drinks,1,120,120
+22,2025-03-02,4,Doodh Patti Chai,Hot Drinks,3,120,360
+23,2025-03-02,5,Doodh Patti Chai,Hot Drinks,1,120,120
+24,2025-03-03,3,Biscuits (pack),Bakery,1,40,40
+25,2025-03-03,5,Green Tea,Hot Drinks,1,100,100
+26,2025-03-06,2,Kashmiri Chai,Hot Drinks,1,180,180
+27,2025-03-07,1,Kashmiri Chai,Hot Drinks,1,180,180
+28,2025-03-07,6,Doodh Patti Chai,Hot Drinks,2,120,240
+29,2025-03-12,1,Elaichi Chai,Hot Drinks,1,150,150
+30,2025-03-12,5,Doodh Patti Chai,Hot Drinks,1,120,120
+31,2025-03-16,4,Elaichi Chai,Hot Drinks,1,150,150
+32,2025-03-16,6,Anda Paratha,Food,2,150,300
+33,2025-03-18,1,Elaichi Chai,Hot Drinks,1,150,150
+34,2025-03-20,1,Anda Paratha,Food,1,150,150
+35,2025-03-20,6,Fries,Food,1,180,180
+36,2025-03-21,4,Samosa (2 pc),Food,1,60,60
+37,2025-03-22,5,Samosa (2 pc),Food,3,60,180
+38,2025-03-23,4,Doodh Patti Chai,Hot Drinks,1,120,120
+39,2025-03-25,7,Sweet Lassi,Cold Drinks,3,160,480
+40,2025-03-26,5,Doodh Patti Chai,Hot Drinks,1,120,120
+41,2025-03-27,2,Elaichi Chai,Hot Drinks,1,150,150
+42,2025-03-29,6,Anda Paratha,Food,3,150,450
+43,2025-03-30,4,Bun Kebab,Food,1,220,220
+44,2025-03-30,7,Kashmiri Chai,Hot Drinks,1,180,180
+45,2025-04-01,2,Elaichi Chai,Hot Drinks,1,150,150
+46,2025-04-02,1,Samosa (2 pc),Food,1,60,60
+47,2025-04-04,7,Samosa (2 pc),Food,3,60,180
+48,2025-04-06,3,Kashmiri Chai,Hot Drinks,1,180,180
+49,2025-04-08,6,Green Tea,Hot Drinks,1,100,100
+50,2025-04-09,7,Green Tea,Hot Drinks,1,100,100
+51,2025-04-10,3,Elaichi Chai,Hot Drinks,2,150,300
+52,2025-04-12,7,Bun Kebab,Food,2,220,440
+53,2025-04-14,7,Cold Coffee,Cold Drinks,1,280,280
+54,2025-04-16,3,Cold Coffee,Cold Drinks,1,280,280
+55,2025-04-18,6,Doodh Patti Chai,Hot Drinks,1,120,120
+56,2025-04-19,8,Doodh Patti Chai,Hot Drinks,1,120,120
+57,2025-04-20,2,Doodh Patti Chai,Hot Drinks,2,120,240
+58,2025-04-21,1,Anda Paratha,Food,1,150,150
+59,2025-04-23,3,Kashmiri Chai,Hot Drinks,2,180,360
+60,2025-04-24,8,Doodh Patti Chai,Hot Drinks,2,120,240
+61,2025-04-25,5,Bun Kebab,Food,1,220,220
+62,2025-04-27,4,Fries,Food,1,180,180
+63,2025-04-27,5,Doodh Patti Chai,Hot Drinks,2,120,240
+64,2025-04-27,5,Doodh Patti Chai,Hot Drinks,2,120,240
+65,2025-04-28,7,Bun Kebab,Food,1,220,220
+66,2025-04-30,2,Kashmiri Chai,Hot Drinks,1,180,180
+67,2025-05-01,1,Doodh Patti Chai,Hot Drinks,2,120,240
+68,2025-05-01,1,Doodh Patti Chai,Hot Drinks,1,120,120
+69,2025-05-01,5,Bun Kebab,Food,1,220,220
+70,2025-05-05,6,Doodh Patti Chai,Hot Drinks,3,120,360
+71,2025-05-09,6,Kashmiri Chai,Hot Drinks,1,180,180
+72,2025-05-10,1,Kashmiri Chai,Hot Drinks,2,180,360
+73,2025-05-14,4,Anda Paratha,Food,3,150,450
+74,2025-05-14,7,Anda Paratha,Food,1,150,150
+75,2025-05-17,3,Elaichi Chai,Hot Drinks,1,150,150
+76,2025-05-18,1,Doodh Patti Chai,Hot Drinks,1,120,120
+77,2025-05-19,4,Kashmiri Chai,Hot Drinks,2,180,360
+78,2025-05-19,9,Anda Paratha,Food,1,150,150
+79,2025-05-20,1,Elaichi Chai,Hot Drinks,1,150,150
+80,2025-05-21,5,Kashmiri Chai,Hot Drinks,1,180,180
+81,2025-05-23,5,Anda Paratha,Food,3,150,450
+82,2025-05-24,2,Doodh Patti Chai,Hot Drinks,2,120,240
+83,2025-05-25,10,Elaichi Chai,Hot Drinks,1,150,150
+84,2025-05-26,2,Doodh Patti Chai,Hot Drinks,1,120,120
+85,2025-05-26,6,Bun Kebab,Food,1,220,220
+86,2025-05-27,3,Bun Kebab,Food,1,220,220
+87,2025-05-28,7,Elaichi Chai,Hot Drinks,1,150,150
+88,2025-05-29,6,Samosa (2 pc),Food,1,60,60
+89,2025-05-29,10,Doodh Patti Chai,Hot Drinks,3,120,360
+90,2025-05-30,6,Bun Kebab,Food,1,220,220
+91,2025-05-30,7,Doodh Patti Chai,Hot Drinks,2,120,240
+92,2025-05-31,9,Elaichi Chai,Hot Drinks,1,150,150
+93,2025-06-02,1,Elaichi Chai,Hot Drinks,1,150,150
+94,2025-06-02,5,Doodh Patti Chai,Hot Drinks,1,120,120
+95,2025-06-03,11,Doodh Patti Chai,Hot Drinks,1,120,120
+96,2025-06-04,7,Anda Paratha,Food,1,150,150
+97,2025-06-05,5,Doodh Patti Chai,Hot Drinks,1,120,120
+98,2025-06-08,9,Anda Paratha,Food,1,150,150
+99,2025-06-10,2,Green Tea,Hot Drinks,1,100,100
+100,2025-06-12,7,Doodh Patti Chai,Hot Drinks,1,120,120
+101,2025-06-12,10,Anda Paratha,Food,2,150,300
+102,2025-06-15,9,Sweet Lassi,Cold Drinks,3,160,480
+103,2025-06-18,1,Anda Paratha,Food,1,150,150
+104,2025-06-19,6,Doodh Patti Chai,Hot Drinks,2,120,240
+105,2025-06-20,1,Bun Kebab,Food,1,220,220
+106,2025-06-20,12,Green Tea,Hot Drinks,2,100,200
+107,2025-06-21,9,Bun Kebab,Food,1,220,220
+108,2025-06-22,3,Anda Paratha,Food,2,150,300
+109,2025-06-22,3,Samosa (2 pc),Food,2,60,120
+110,2025-06-25,9,Elaichi Chai,Hot Drinks,1,150,150
+111,2025-06-30,6,Elaichi Chai,Hot Drinks,1,150,150
+112,2025-06-30,11,Bun Kebab,Food,1,220,220
+113,2025-06-30,12,Doodh Patti Chai,Hot Drinks,2,120,240
+114,2025-07-02,2,Kashmiri Chai,Hot Drinks,2,180,360
+115,2025-07-03,2,Doodh Patti Chai,Hot Drinks,3,120,360
+116,2025-07-03,10,Green Tea,Hot Drinks,2,100,200
+117,2025-07-07,1,Anda Paratha,Food,1,150,150
+118,2025-07-07,4,Elaichi Chai,Hot Drinks,1,150,150
+119,2025-07-11,3,Green Tea,Hot Drinks,1,100,100
+120,2025-07-12,7,Elaichi Chai,Hot Drinks,2,150,300
+121,2025-07-13,3,Bun Kebab,Food,1,220,220
+122,2025-07-16,6,Cake Slice,Bakery,1,250,250
+123,2025-07-16,7,Green Tea,Hot Drinks,1,100,100
+124,2025-07-16,10,Doodh Patti Chai,Hot Drinks,1,120,120
+125,2025-07-20,6,Doodh Patti Chai,Hot Drinks,1,120,120
+126,2025-07-21,2,Elaichi Chai,Hot Drinks,1,150,150
+127,2025-07-24,3,Kashmiri Chai,Hot Drinks,1,180,180
+128,2025-07-24,11,Anda Paratha,Food,1,150,150
+129,2025-07-25,2,Bun Kebab,Food,3,220,660
+130,2025-07-25,3,Anda Paratha,Food,2,150,300
+131,2025-07-26,2,Elaichi Chai,Hot Drinks,1,150,150
+132,2025-07-27,2,Anda Paratha,Food,1,150,150
+133,2025-07-28,14,Bun Kebab,Food,1,220,220
+134,2025-07-29,8,Kashmiri Chai,Hot Drinks,3,180,540
+135,2025-07-30,3,Samosa (2 pc),Food,2,60,120
+136,2025-07-31,13,Bun Kebab,Food,1,220,220
+137,2025-08-02,1,Cold Coffee,Cold Drinks,2,280,560
+138,2025-08-03,3,Doodh Patti Chai,Hot Drinks,1,120,120
+139,2025-08-04,3,Elaichi Chai,Hot Drinks,1,150,150
+140,2025-08-10,8,Elaichi Chai,Hot Drinks,1,150,150
+141,2025-08-10,10,Doodh Patti Chai,Hot Drinks,1,120,120
+142,2025-08-11,2,Green Tea,Hot Drinks,1,100,100
+143,2025-08-12,6,Doodh Patti Chai,Hot Drinks,1,120,120
+144,2025-08-14,3,Doodh Patti Chai,Hot Drinks,2,120,240
+145,2025-08-14,5,Cold Coffee,Cold Drinks,1,280,280
+146,2025-08-14,12,Sweet Lassi,Cold Drinks,3,160,480
+147,2025-08-15,3,Bun Kebab,Food,1,220,220
+148,2025-08-16,5,Doodh Patti Chai,Hot Drinks,1,120,120
+149,2025-08-16,15,Elaichi Chai,Hot Drinks,3,150,450
+150,2025-08-18,7,Sweet Lassi,Cold Drinks,1,160,160
+151,2025-08-19,1,Doodh Patti Chai,Hot Drinks,2,120,240
+152,2025-08-19,5,Doodh Patti Chai,Hot Drinks,3,120,360
+153,2025-08-21,2,Doodh Patti Chai,Hot Drinks,1,120,120
+154,2025-08-23,5,Elaichi Chai,Hot Drinks,1,150,150
+155,2025-08-25,5,Bun Kebab,Food,2,220,440
+156,2025-08-25,14,Anda Paratha,Food,1,150,150
+157,2025-08-26,15,Elaichi Chai,Hot Drinks,1,150,150
+158,2025-08-28,5,Green Tea,Hot Drinks,2,100,200
+159,2025-08-28,16,Sweet Lassi,Cold Drinks,1,160,160
+160,2025-08-30,7,Sweet Lassi,Cold Drinks,1,160,160
+161,2025-08-31,1,Fries,Food,3,180,540
+162,2025-09-01,3,Fries,Food,1,180,180
+163,2025-09-03,6,Bun Kebab,Food,1,220,220
+164,2025-09-06,7,Green Tea,Hot Drinks,2,100,200
+165,2025-09-07,6,Doodh Patti Chai,Hot Drinks,1,120,120
+166,2025-09-09,4,Elaichi Chai,Hot Drinks,1,150,150
+167,2025-09-09,8,Bun Kebab,Food,1,220,220
+168,2025-09-10,9,Samosa (2 pc),Food,1,60,60
+169,2025-09-14,2,Doodh Patti Chai,Hot Drinks,1,120,120
+170,2025-09-16,9,Doodh Patti Chai,Hot Drinks,1,120,120
+171,2025-09-17,16,Bun Kebab,Food,2,220,440
+172,2025-09-18,5,Fries,Food,2,180,360
+173,2025-09-20,1,Green Tea,Hot Drinks,1,100,100
+174,2025-09-20,1,Green Tea,Hot Drinks,1,100,100
+175,2025-09-20,4,Doodh Patti Chai,Hot Drinks,2,120,240
+176,2025-09-21,3,Fries,Food,2,180,360
+177,2025-09-21,5,Samosa (2 pc),Food,1,60,60
+178,2025-09-21,10,Elaichi Chai,Hot Drinks,3,150,450
+179,2025-09-22,6,Doodh Patti Chai,Hot Drinks,1,120,120
+180,2025-09-25,17,Sweet Lassi,Cold Drinks,1,160,160
+181,2025-09-27,7,Anda Paratha,Food,1,150,150
+182,2025-09-29,18,Kashmiri Chai,Hot Drinks,1,180,180
+183,2025-09-30,3,Kashmiri Chai,Hot Drinks,1,180,180
+184,2025-10-02,11,Elaichi Chai,Hot Drinks,1,150,150
+185,2025-10-03,2,Biscuits (pack),Bakery,1,40,40
+186,2025-10-03,9,Elaichi Chai,Hot Drinks,1,150,150
+187,2025-10-06,9,Bun Kebab,Food,3,220,660
+188,2025-10-08,10,Kashmiri Chai,Hot Drinks,1,180,180
+189,2025-10-10,15,Doodh Patti Chai,Hot Drinks,1,120,120
+190,2025-10-11,7,Fries,Food,1,180,180
+191,2025-10-13,16,Biscuits (pack),Bakery,1,40,40
+192,2025-10-16,4,Green Tea,Hot Drinks,1,100,100
+193,2025-10-16,5,Bun Kebab,Food,1,220,220
+194,2025-10-16,18,Green Tea,Hot Drinks,1,100,100
+195,2025-10-17,7,Bun Kebab,Food,2,220,440
+196,2025-10-18,7,Doodh Patti Chai,Hot Drinks,2,120,240
+197,2025-10-18,8,Green Tea,Hot Drinks,1,100,100
+198,2025-10-22,3,Anda Paratha,Food,1,150,150
+199,2025-10-24,20,Doodh Patti Chai,Hot Drinks,1,120,120
+200,2025-10-25,1,Samosa (2 pc),Food,1,60,60
+201,2025-10-25,16,Doodh Patti Chai,Hot Drinks,1,120,120
+202,2025-10-27,19,Green Tea,Hot Drinks,1,100,100
+203,2025-10-28,6,Bun Kebab,Food,1,220,220
+204,2025-10-29,13,Doodh Patti Chai,Hot Drinks,1,120,120
+205,2025-10-29,16,Elaichi Chai,Hot Drinks,1,150,150
+206,2025-10-31,9,Kashmiri Chai,Hot Drinks,2,180,360
+207,2025-10-31,10,Doodh Patti Chai,Hot Drinks,1,120,120
+208,2025-11-01,7,Bun Kebab,Food,1,220,220
+209,2025-11-01,9,Doodh Patti Chai,Hot Drinks,2,120,240
+210,2025-11-02,1,Samosa (2 pc),Food,1,60,60
+211,2025-11-03,1,Kashmiri Chai,Hot Drinks,1,180,180
+212,2025-11-07,20,Doodh Patti Chai,Hot Drinks,1,120,120
+213,2025-11-08,4,Doodh Patti Chai,Hot Drinks,2,120,240
+214,2025-11-09,10,Doodh Patti Chai,Hot Drinks,2,120,240
+215,2025-11-09,18,Cold Coffee,Cold Drinks,1,280,280
+216,2025-11-11,8,Doodh Patti Chai,Hot Drinks,2,120,240
+217,2025-11-13,6,Doodh Patti Chai,Hot Drinks,2,120,240
+218,2025-11-14,21,Green Tea,Hot Drinks,1,100,100
+219,2025-11-17,9,Doodh Patti Chai,Hot Drinks,3,120,360
+220,2025-11-18,4,Elaichi Chai,Hot Drinks,1,150,150
+221,2025-11-18,22,Elaichi Chai,Hot Drinks,1,150,150
+222,2025-11-20,6,Doodh Patti Chai,Hot Drinks,1,120,120
+223,2025-11-24,1,Elaichi Chai,Hot Drinks,2,150,300
+224,2025-11-25,7,Samosa (2 pc),Food,3,60,180
+225,2025-11-25,9,Fries,Food,1,180,180
+226,2025-11-26,20,Doodh Patti Chai,Hot Drinks,1,120,120
+227,2025-11-27,2,Doodh Patti Chai,Hot Drinks,1,120,120
+228,2025-11-30,8,Doodh Patti Chai,Hot Drinks,1,120,120
+229,2025-12-01,2,Elaichi Chai,Hot Drinks,1,150,150
+230,2025-12-07,18,Samosa (2 pc),Food,1,60,60
+231,2025-12-08,9,Doodh Patti Chai,Hot Drinks,1,120,120
+232,2025-12-11,2,Kashmiri Chai,Hot Drinks,2,180,360
+233,2025-12-12,4,Doodh Patti Chai,Hot Drinks,2,120,240
+234,2025-12-13,12,Green Tea,Hot Drinks,1,100,100
+235,2025-12-17,9,Elaichi Chai,Hot Drinks,1,150,150
+236,2025-12-18,2,Doodh Patti Chai,Hot Drinks,3,120,360
+237,2025-12-19,18,Kashmiri Chai,Hot Drinks,2,180,360
+238,2025-12-20,1,Doodh Patti Chai,Hot Drinks,1,120,120
+239,2025-12-21,4,Bun Kebab,Food,3,220,660
+240,2025-12-22,1,Cold Coffee,Cold Drinks,1,280,280
+241,2025-12-22,9,Sweet Lassi,Cold Drinks,1,160,160
+242,2025-12-25,4,Doodh Patti Chai,Hot Drinks,1,120,120
+243,2025-12-25,7,Bun Kebab,Food,1,220,220
+244,2025-12-26,12,Doodh Patti Chai,Hot Drinks,2,120,240
+245,2025-12-27,2,Fries,Food,1,180,180
+246,2025-12-27,4,Doodh Patti Chai,Hot Drinks,2,120,240
+247,2025-12-28,12,Kashmiri Chai,Hot Drinks,1,180,180
+248,2025-12-29,4,Doodh Patti Chai,Hot Drinks,2,120,240
+249,2025-12-29,12,Doodh Patti Chai,Hot Drinks,1,120,120
+250,2025-12-31,1,Doodh Patti Chai,Hot Drinks,1,120,120
